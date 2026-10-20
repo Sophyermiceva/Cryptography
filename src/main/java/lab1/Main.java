@@ -53,10 +53,17 @@ public class Main {
                     String message = scanner.nextLine();
                     try {
                         String result;
-                        if (operation.equals("e")) result = cipher.encrypt(message, key);
-                        else if (operation.equals("d")) result = cipher.decrypt(message, key);
-                        else if (operation.equals("e2")) result = twoKeyCipher.encrypt(message, key, keyword);
-                        else result = twoKeyCipher.decrypt(message, key, keyword);
+                        boolean decrypt = operation.startsWith("d");
+                        boolean permuted = operation.endsWith("2");
+                        if (permuted) {
+                            result = decrypt
+                                    ? twoKeyCipher.decrypt(message, key, keyword)
+                                    : twoKeyCipher.encrypt(message, key, keyword);
+                        } else {
+                            result = decrypt
+                                    ? cipher.decrypt(message, key)
+                                    : cipher.encrypt(message, key);
+                        }
                         System.out.println("Result: " + result);
                         break;
                     } catch (IllegalArgumentException exception) {
