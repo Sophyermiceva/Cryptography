@@ -1,0 +1,153 @@
+LAB 2 - INTERACTIVE FREQUENCY ANALYSIS
+
+ORIGINAL CIPHERTEXT:
+IVTSZNGW RTP DGOVI PXVJV. WQV INFTS TIZF, DGOVI QVGIF XX NC ANDIANG,UIXGHV NC HNGOV, QTO
+XGKVPWVO XW TW OTRG RVOGVPOTF, TUIXS 19, 1628. ADWWQV QDJDVGNWP, XGPXOV WQV ATWWSVZVGWP
+NC WQV SXWWSV WNRG XG PNDWQVIGCITGHV, RVIV UDWWXGJ DU T PWXCC OVCVGPV. WQVF HTGGNGTOVO
+HNGOV CINZ TWNRVI TGO HNGWVZUWDNDPSF IVEVHWVO QXP OVZTGOP WQTW WQVF PDIIVGOVI,PTFXGJ WQTW
+WQVF RNDSO OXV XGPWVTO. HNGOV AINDJQW DU CXKV AXJ HTGGNGCINZ TSAX, T ONMVG ZXSVP TRTF, TGO NG
+PDGOTF ITGJVO WQVZ XG TGNZXGNDP SXGV CTHXGJ IVTSZNGW.WQTW PTZV OTF QXP PNSOXVIP HTUWDIVO TG
+XGQTAXWTGW NC WQV WNRG RQNRTP WIFXGJ WN HTIIF TG VGHXUQVIVO ZVPPTJV WN QDJDVGNW CNIHVP
+NDWPXOV.GNGV NC HNGOV'P ZVG HNDSO DGIXOOSV XW, ADW ODIXGJ WQV RVVL WQV UIXGHVSVTIGVO WQTW
+XW ZXJQW AV PNSKVO AF WQV PHXNG NC T SVTOXGJ CTZXSF NC TSAXRQN RTP LGNRG WN QTKV TG XGWVIVPW XG
+HXUQVIP.HNGOV PVGW QXZ WQV HIFUWNJITZ. WQV FNDGJ ZTG PNSKVO XW NG WQV PUNW.XW IVKVTSVO WQTW
+WQV QDJDVGNWP OVPUVITWVSF GVVOVO ZDGXWXNGP TGO WQTW, XCWQVF RVIV GNW PDUUSXVO, WQVF RNDSO
+QTKV WN FXVSO. WQXP RTP GVRP XGOVVO,CNI OVPUXWV WQV OVPWIDHWXNG NC T GDZAVI NC QNDPVP AF WQV
+HTWQNSXHATWWVIXVP, WQV WNRG RTP HNGWXGDXGJ WN IVPXPW PWNDWSF RXWQ GN PXJG NCPDIIVGOVI.
+HNGOV IVWDIGVO WQV HIFUWNJITZ WN WQV XGQTAXWTGWP, TGO NGPDGOTF, TUIXS 30, 1628, WQNDJQ XWP
+CNIWXCXHTWXNGP RVIV PWXSS DGAIVTHQVOTGO XWP OVCVGPVP PWXSS TUUTIVGWSF TOVBDTWV CNI T SNGJ
+PXVJV, IVTSZNGWPDOOVGSF TGO DGVYUVHWVOSF HTUXWDSTWVO. RXWQ WQXP OITZTWXH PDHHVPPAVJTG WQV
+HTIVVI NC WQV ZTG RQN RTP WN AVHNZV CITGHV'P CXIPW CDSS-WXZVHIFUWNSNJXPW: WQV JIVTW TGWNXGV
+INPPXJGNS.RQVG RNIO NC WQV XGHXOVGW IVTHQVO HTIOXGTS IXHQVSXVD, WQV TPWDWV TGOTASV JITF
+VZXGVGHV NC CITGHV, QV TW NGHV TWWTHQVO WQXP DPVCDS WTSVGW WNQXP PDXWV. INPPXJGNS UINKVO
+QXP RNIWQ TSZNPW XZZVOXTWVSF. WQV HTWQNSXHTIZXVP DGOVI IXHQVSXVD PDIINDGOXGJ WQV HQXVC
+QDJDVGNW ATPWXNG NC STINHQVSSV XGWVIHVUWVO PNZV SVWWVIP XG HXUQVI, RQXHQ WQV FNDGJ
+HNOVAIVTLVINC TSAX IVTO RXWQ VTPV. QV WNSO QXP VZXGVGHV WQTW WQV PWTIKXGJ HXWXMVGPRVIV
+VTJVISF TRTXWXGJ QVSU WQTW WQV VGJSXPQ QTO UINZXPVO WN PVGO AF PVT. RQVG WQV CSVVWTIIXKVO, WQV
+UIXZVO JDTIOPQXUP TGO CNIWP PN XGWXZXOTWVO XW WQTW XW PWNNONCC WQV UNIW'P VGWITGHV TGO ZTOV
+GN PVIXNDP TWWVZUW WN CNIHV T UTPPTJV. TZNGWQ STWVI, WQV HXWF HTUXWDSTWVO XG CDSS PXJQW NC
+WQV VGJSXPQ KVPPVSP—TGOWQV JIVTW CIVGHQ WITOXWXNG NC VYUVIWXPV XG HIFUWNSNJF QTO AVVG
+CNDGOVO.INPPXJGNS KVIF BDXHLSF VPWTASXPQVO QXZPVSC XG WQV INFTS PVIKXHV. AF1630, QXP
+PNSDWXNGP QTO ZTOV QXZ IXHQ VGNDJQ WN ADXSO T PZTSS ADWVSVJTGW HQTWVTD TW EDKXPF, 12 ZXSVP
+PNDWQ NC UTIXP, STWVI PDIINDGOXGJ XWRXWQ T HQTIZXGJ XGCNIZTS JTIOVG OVPXJGVO AF SV GNWIV, WQV
+JTIOVGVI NCKVIPTXSSVP. QVIV SNDXP YXXX PWNUUVO WN KXPXW WQV FNDGJ HIFUW-TGTSFPW XG1634,
+1635 TGO 1636 NG QXP IVWDIGP WN UTIXP CINZ CNGWTXGVASVTD.XG WQV PRTPQADHLSXGJ HNDIW NC WQTW
+ZNGTIHQ, TGO WQVG XG WQVIVPUSVGOVGW NGV NC SNDXP YXK, INPPXJGNS PVIKVO RXWQ TG
+VYWITNIOXGTIFCTHXSXWF. WQV PWINGJQNSO NC QVPOXG PDIIVGOVIVO T RVVL PNNGVI WQTG XWNWQVIRXPV
+RNDSO QTKV AVHTDPV QV PNSKVO TG VGHXUQVIVO USVT CNI QVSU, TGOWQVG HNZUNPVO T IVUSF XG WQV PTZV
+HXUQVI WVSSXGJ WQV WNRGPUVNUSV QNRCDWXSV WQVXI QNUVP RVIV. QNR ZTGF NWQVI WNRGP QV HNZUVSSVO
+WNPDIIVGOVI, QNR ZTGF OXUSNZTWXH HNDUP QV ZTOV UNPPXASV, QNR ZTGFAVWITFTSP QV DGHNKVIVO TZNGJ
+WQV JIVTW GNASVP XG WQNPV OTFP NC PQXCWXGJTSSVJXTGHVP, QV GVKVI OXPHDPPVO. WQXP IVWXHVGHV
+HTDPVO PNZV TW WQV HNDIWWN HQTIJV WQTW QV GVKVI THWDTSSF PNSKVO T PXGJSV HXUQVI, TGO WQTW
+WQVHTIOXGTS PUIVTO XGCSTWVO IDZNIP TANDW QXP TAXSXWXVP WN OXPHNDITJV RNDSO-AV HNGPUXITWNIP.
+ADW XG CTHW IXHQVSXVD RTP CIVBDVGWSF WVSSXGJ QXPPDANIOXGTWVP PDHQ WQXGJP TP, "XW XP
+GVHVPPTIF WN ZTLV DPV, XG ZF NUXGXNG,NC WQV SVWWVIP NC WQV ZTG RQN QTP AVVG TIIVPWVO AF WQV
+HXKXS TDWQNIXWXVP TWZVMXVIVP, WQTW XP WN PTF, QTKV WQVZ UDW XGWN INPPXJGNS'P QTGOP WN PVV
+XCWQVIV XP PNZVWQXGJ XZUNIWTGW XG WQVZ." NI, VXJQW FVTIP STWVI, XG 1642,RIXWXGJ WN ZVPPXVDIP
+OV GNFVIP TGO OV HQTKXJGF: "X PTR, XG PNZVVYWITHWP, WQTW INPPXJGNS PVGW ZV, T WIDHV
+GVJNWXTWXNG NC WQV LXGJ NCVGJSTGO RXWQ WQV UIXGHV NC NITGJV; X ON GNW WQXGL WQTW XW HTG
+QTKV TGFVCCVHW, ADW ... XW XP DU WN FND, JVGWSVZVG, WN LVVU FNDI VFVP UVVSVO."
+
+HISTORY:
+1. SET V -> E
+2. SET W -> T
+3. SET Q -> H
+4. SET T -> A
+5. SET G -> N
+6. SET C -> F
+7. SET X -> I
+8. SET P -> S
+9. SET O -> D
+10. SET R -> W
+11. SET I -> R
+12. SET S -> L
+13. SET L -> K
+14. SET F -> Y
+15. SET H -> C
+16. SET U -> P
+17. SET J -> G
+18. SET K -> V
+19. SET D -> U
+20. SET A -> B
+21. SET Z -> M
+22. SET Y -> X
+23. SET B -> Q
+24. SET M -> Z
+25. SET E -> J
+26. SET N -> O
+
+CURRENT DECRYPTION:
+realmont was under siege. the royal army, under henry ii of bourbon,prince of conde, had
+invested it at dawn wednesday, april 19, 1628. butthe huguenots, inside the battlements
+of the little town in southernfrance, were putting up a stiff defense. they cannonaded
+conde from atower and contemptuously rejected his demands that they surrender,saying that
+they would die instead. conde brought up five big cannonfrom albi, a dozen miles away, and on
+sunday ranged them in anominous line facing realmont.that same day his soldiers captured an
+inhabitant of the town whowas trying to carry an enciphered message to huguenot forces
+outside.none of conde's men could unriddle it, but during the week the princelearned that
+it might be solved by the scion of a leading family of albiwho was known to have an interest in
+ciphers.conde sent him the cryptogram. the young man solved it on the spot.it revealed that
+the huguenots desperately needed munitions and that, ifthey were not supplied, they would
+have to yield. this was news indeed,for despite the destruction of a number of houses by the
+catholicbatteries, the town was continuing to resist stoutly with no sign ofsurrender.
+conde returned the cryptogram to the inhabitants, and onsunday, april 30, 1628, though its
+fortifications were still unbreachedand its defenses still apparently adequate for a long
+siege, realmontsuddenly and unexpectedly capitulated. with this dramatic successbegan the
+career of the man who was to become france's first full-timecryptologist: the great antoine
+rossignol.when word of the incident reached cardinal richelieu, the astute andable gray
+eminence of france, he at once attached this useful talent tohis suite. rossignol proved
+his worth almost immediately. the catholicarmies under richelieu surrounding the chief
+huguenot bastion of larochelle intercepted some letters in cipher, which the young
+codebreakerof albi read with ease. he told his eminence that the starving citizenswere
+eagerly awaiting help that the english had promised to send by sea. when the fleetarrived, the
+primed guardships and forts so intimidated it that it stoodoff the port's entrance and made
+no serious attempt to force a passage. amonth later, the city capitulated in full sight of
+the english vessels—andthe great french tradition of expertise in cryptology had been
+founded.rossignol very quickly established himself in the royal service. by1630, his
+solutions had made him rich enough to build a small butelegant chateau at juvisy, 12 miles
+south of paris, later surrounding itwith a charming informal garden designed by le notre, the
+gardener ofversailles. here louis xiii stopped to visit the young crypt-analyst in1634,
+1635 and 1636 on his returns to paris from fontainebleau.in the swashbuckling court of that
+monarch, and then in theresplendent one of louis xiv, rossignol served with an
+extraordinaryfacility. the stronghold of hesdin surrendered a week sooner than itotherwise
+would have because he solved an enciphered plea for help, andthen composed a reply in the same
+cipher telling the townspeople howfutile their hopes were. how many other towns he compelled
+tosurrender, how many diplomatic coups he made possible, how manybetrayals he uncovered among
+the great nobles in those days of shiftingallegiances, he never discussed. this reticence
+caused some at the courtto charge that he never actually solved a single cipher, and that
+thecardinal spread inflated rumors about his abilities to discourage would-be conspirators.
+but in fact richelieu was frequently telling hissubordinates such things as, "it is
+necessary to make use, in my opinion,of the letters of the man who has been arrested by the
+civil authorities atmezieres, that is to say, have them put into rossignol's hands to see
+ifthere is something important in them." or, eight years later, in 1642,writing to messieurs
+de noyers and de chavigny: "i saw, in someextracts, that rossignol sent me, a truce
+negotiation of the king ofengland with the prince of orange; i do not think that it can
+have anyeffect, but ... it is up to you, gentlemen, to keep your eyes peeled."
+
+DECRYPTION KEY (CIPHER -> PLAIN):
+A -> B
+B -> Q
+C -> F
+D -> U
+E -> J
+F -> Y
+G -> N
+H -> C
+I -> R
+J -> G
+K -> V
+L -> K
+M -> Z
+N -> O
+O -> D
+P -> S
+Q -> H
+R -> W
+S -> L
+T -> A
+U -> P
+V -> E
+W -> T
+X -> I
+Y -> X
+Z -> M
